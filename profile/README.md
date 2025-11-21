@@ -57,7 +57,7 @@ Our core principles:
 
 - Open an issue on any of our repositories
 - Participate in discussions on GitHub
-- More communication channels coming soon!
+- Our [Discord Server](https://discord.gg/qxcv3z2sZw)
 
 ---
 
