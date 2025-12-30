@@ -11,7 +11,7 @@ Maintaining Open-Source Free Sites, Apps, and Software to track your Escape From
 ### [TarkovTracker.org](https://tarkovtracker.org)
 A comprehensive web application for tracking your progress in Escape From Tarkov. Track tasks, hideout upgrades, and required items while coordinating with your team.
 
-- **Repository**: [TarkovTracker-org/TarkovTracker](https://github.com/tarkovtracker-org/TarkovTracker)
+- **Repository**: [TarkovTracker-org/TarkovTrackerNuxt](https://github.com/tarkovtracker-org/TarkovTrackerNuxt)
 - **Features**: Task tracking, hideout management, item requirements, team coordination
 - **Status**: Active development, community maintained
 
