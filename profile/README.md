@@ -1,64 +1,49 @@
-# TarkovTracker-org
+# TarkovTracker.org
 
-## About Us
-We're a community-driven organization maintaining free and open-source tools for Escape From Tarkov players. Our mission is to develop and support high-quality applications that help you track your EFT progress efficiently, without any paywalls or restrictions.
+[![Website](https://img.shields.io/badge/website-tarkovtracker.org-2ea44f)](https://tarkovtracker.org)
+[![Discord](https://img.shields.io/badge/Discord-join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/PpdDwd2M6V)
+[![Follow on X](https://img.shields.io/badge/X-@tarkovtracker_-000000?logo=x)](https://x.com/tarkovtracker_)
 
-## 🎯 Our Mission
-Maintaining Open-Source Free Sites, Apps, and Software to track your Escape From Tarkov (EFT) Progress Easy and Efficiently!
+## Who We Are
+
+We're a community-driven organization maintaining free and open-source tools for Escape From Tarkov players. Our mission is to maintain open-source, free sites, apps, and software that help you track your Escape From Tarkov (EFT) progress **easily and efficiently** — with no paywalls and no restrictions.
 
 ## 🌟 Our Projects
 
-### [TarkovTracker.org](https://tarkovtracker.org)
-A comprehensive web application for tracking your progress in Escape From Tarkov. Track tasks, hideout upgrades, and required items while coordinating with your team.
+| Project | Description |
+| --- | --- |
+| [**TarkovTracker**](https://github.com/tarkovtracker-org/TarkovTracker) | Our flagship web app at [tarkovtracker.org](https://tarkovtracker.org) — quest, hideout, item, and progression tracking for PvP/PvE with squad sync. Built with Nuxt 4 and Supabase. |
+| [**TarkovMonitor**](https://github.com/tarkovtracker-org/TarkovMonitor) | Monitors Tarkov log files to help track progress, queues, and groups. |
+| [**RatScanner**](https://github.com/tarkovtracker-org/RatScanner) | A helpful companion app for Escape from Tarkov — TarkovTracker.org edition, forked from the original project. |
+| [**RatEye**](https://github.com/tarkovtracker-org/RatEye) | Image processing library for Escape from Tarkov. |
+| [**tarkov-data-overlay**](https://github.com/tarkovtracker-org/tarkov-data-overlay) | Data overlay for Tarkov.dev API data. |
+| [**TrackerBot**](https://github.com/tarkovtracker-org/TrackerBot) | Discord bot powering the TarkovTracker.org community Discord server. |
+| [**RatScannerData**](https://github.com/tarkovtracker-org/RatScannerData) | Automated runtime data bundle builder for RatScanner. |
 
-- **Repository**: [TarkovTracker-org/TarkovTracker](https://github.com/tarkovtracker-org/TarkovTracker)
-- **Features**: Task tracking, hideout management, item requirements, team coordination
-- **Status**: Active development, community maintained
+## 🤝 Contributing
 
-### More Projects Coming Soon!
-We plan to expand our ecosystem of tools to further enhance the EFT experience. Have an idea? Let us know!
+We welcome contributors at every level of experience and commitment — no contribution is too small:
 
-## 👥 Join Our Community
+- **Use our tools** and tell us what you think — feedback and bug reports are genuinely valuable
+- **Contribute code, documentation, design, or testing** on any of our repositories
+- **Become a maintainer** by taking ownership of a feature or component
 
-We're looking for contributors at all levels of experience and commitment:
+Check out our [contributing guide](https://github.com/tarkovtracker-org/.github/blob/main/CONTRIBUTING.md) to get started. Not a developer? We also need help with design, documentation, testing, community management, ideas, and feedback.
 
-### Ways to Contribute
-- **Use our tools**: Provide feedback and report bugs
-- **Project contributors**: Help with code, documentation, design, testing
-- **Maintainers**: Take ownership of specific features or components
-- **Organization members**: Help guide the direction of our projects and community
+## 💻 Our Principles
 
-### No Contribution Is Too Small
-Whether you can fix a typo, improve documentation, or build an entire new feature—we welcome your help. Not a developer? We also need help with:
-- Design
-- Documentation
-- Testing
-- Community management
-- Ideas and feedback
+- **Fully free** — all of our tools will always be 100% free to use
+- **Open source** — all code is available for inspection, modification, and contribution
+- **Community-driven** — we make decisions based on community needs and feedback
+- **Transparent** — development discussions and decisions happen in the open
+- **Quality** — we strive for reliable, performant, and user-friendly tools
 
-## 💻 Development Philosophy
+## 📞 Community & Contact
 
-Our core principles:
-- **Fully Free**: All our tools will always be 100% free to use
-- **Open Source**: All code is available for inspection, modification, and contribution
-- **Community-Driven**: We make decisions based on community needs and feedback
-- **Transparent**: Development discussions and decisions happen in the open
-- **Quality**: We strive for reliable, performant, and user-friendly tools
-
-## 🤝 How to Get Involved
-
-1. **Start using our tools**: Experience what we offer and provide feedback
-2. **Star our repositories**: Show your support and stay updated
-3. **Fork and contribute**: Submit pull requests with improvements
-4. **Join discussions**: Participate in issues, discussions, and planning
-5. **Become a maintainer**: Show consistent contributions and request additional access
-
-## 📞 Contact Us
-
-- Open an issue on any of our repositories
-- Participate in discussions on GitHub
-- Our [Discord Server](https://discord.gg/PpdDwd2M6V)
+- 💬 [Join our Discord server](https://discord.gg/PpdDwd2M6V) — the fastest way to reach us
+- 🐛 Open an issue on the relevant repository for bugs and feature requests
+- 🐦 Follow [@tarkovtracker_](https://x.com/tarkovtracker_) on X for updates
 
 ---
 
-Thank you for your interest in TarkovTracker-org! Together, we can build amazing tools for the EFT community. Remember, this organization exists to serve the community, and we're excited to welcome new contributors of all skill levels.
+Thanks for your interest in TarkovTracker.org! This organization exists to serve the EFT community, and we're excited to welcome contributors of all skill levels.
