@@ -1,0 +1,14 @@
+﻿blank_issues_enabled: true
+contact_links:
+  - name: Discord Community
+    url: https://discord.gg/M8nBgA2sT6
+    about: Join our Discord server for gameplay questions, troubleshooting, and discussion
+  - name: Live Web App
+    url: https://tarkovtracker.org
+    about: Visit the TarkovTracker web application
+  - name: Translations Portal
+    url: https://translate.tarkovtracker.org
+    about: Help translate TarkovTracker into your language on Crowdin
+  - name: Security Vulnerability Disclosure
+    url: https://github.com/tarkovtracker-org/.github/blob/main/SECURITY.md
+    about: Report a security vulnerability privately

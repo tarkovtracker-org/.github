@@ -1,0 +1,65 @@
+﻿name: Feature Request
+description: Propose a new feature, improvement, or idea for a TarkovTracker-org project
+title: '[Feature]: '
+labels: ['enhancement']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting an improvement! Ideas and feedback from active players keep this ecosystem thriving.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: Is your feature request related to a problem or limitation? Please describe it.
+      placeholder: I'm always frustrated when... / It is currently difficult to...
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed Solution or Feature
+      description: Describe what you would like to happen and how you envision it working.
+      placeholder: Provide a clear description of the desired behavior, workflow, or UI.
+    validations:
+      required: true
+  - type: dropdown
+    id: repository
+    attributes:
+      label: Target Component or Repository
+      description: Which repository or component is this suggestion for?
+      options:
+        - TarkovTracker (Web Application)
+        - tarkov-data-overlay (Game Data & Quests)
+        - TrackerBot (Discord Bot)
+        - TarkovMonitor (Log Monitor)
+        - RatScanner (Desktop Overlay)
+        - RatEye (Image Recognition)
+        - RatScannerData (Data Pipeline)
+        - RequestExtract / RequestStash
+        - Other / Ecosystem-Wide
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered any alternative solutions or workarounds?
+      placeholder: A clear description of any other options you've tried or considered.
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any mockups, screenshots, links, or references that illustrate your proposal.
+      placeholder: Drag images or paste URLs here
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-Submission Checklist
+      options:
+        - label: I have searched existing issues and feature requests to verify this has not already been suggested.
+          required: true
