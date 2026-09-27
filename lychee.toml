@@ -13,4 +13,5 @@ exclude = [
   '^https?://(www\.)?x\.com/',
   '^https?://(www\.)?twitter\.com/',
   '^https?://([a-z0-9-]+\.)?tarkovtracker\.org',
+  '^https?://(www\.)?escapefromtarkov\.com',
 ]
