@@ -1,4 +1,4 @@
-﻿# Contributing to TarkovTracker-org
+# Contributing to TarkovTracker-org
 
 Thank you for your interest in contributing to the **TarkovTracker.org** ecosystem! We build free, open-source tools for Escape from Tarkov players, and we welcome contributions of all shapes and sizes — code, bug reports, documentation improvements, data corrections, and translations.
 
@@ -14,7 +14,7 @@ All participation in our repositories and community spaces is governed by the [T
 
 ## Ways to Contribute
 
-1. **Bug Reports & Feedback:** If you encounter unexpected behavior, broken quest progression, or UI glitches, file an issue using the appropriate template in the repository.
+1. **Bug Reports & Feedback:** If you encounter unexpected behavior, broken task progression, or UI glitches, file an issue using the appropriate template in the repository.
 2. **Game Data Corrections:** If task requirements, item spawn locations, or hideout recipes are out of date, report them to [`tarkov-data-overlay`](https://github.com/tarkovtracker-org/tarkov-data-overlay) or submit a pull request there.
 3. **Localization:** Help translate the tracker into other languages at [translate.tarkovtracker.org](https://translate.tarkovtracker.org) via [Crowdin](https://crowdin.com/project/tarkovtrackerorg). Please contribute translations through Crowdin rather than editing non-English locale files directly.
 4. **Code & Documentation:** Submit pull requests for bug fixes, performance improvements, documentation enhancements, and features.
@@ -28,7 +28,7 @@ Before opening a new issue:
 
 1. **Search existing issues** (both open and closed) to see if the topic is already being tracked.
 2. **Verify against the latest version** — if you are testing the web app, check <https://tarkovtracker.org> to confirm the issue reproduces on the live deployment.
-3. **Use the structured issue templates** provided in the repository whenever available:
+3. **Open the issue in the affected repository** and use its structured issue templates whenever available:
    - **Bug Report:** Include clear reproduction steps, expected behavior, actual behavior, screenshots, and browser/OS environment.
    - **Feature Request:** Describe the problem you are trying to solve and your proposed solution.
 4. **Security Vulnerabilities:** Do **not** open a public issue for security concerns. Follow our [Security Policy](SECURITY.md) instead.
@@ -37,9 +37,9 @@ Before opening a new issue:
 
 ## Finding Work to Pick Up
 
-- Browse repositories for issues labeled [`good-first-issue`](https://github.com/search?q=org%3Atarkovtracker-org+label%3Agood-first-issue+is%3Aopen&type=issues) or [`help-wanted`](https://github.com/search?q=org%3Atarkovtracker-org+label%3Ahelp-wanted+is%3Aopen&type=issues).
+- Browse repositories for issues labeled [good first issue](https://github.com/search?q=org%3Atarkovtracker-org+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22%2Cgood-first-issue&type=issues) or [help wanted](https://github.com/search?q=org%3Atarkovtracker-org+is%3Aissue+is%3Aopen+label%3A%22help+wanted%22%2Chelp-wanted&type=issues).
 - Before starting work on an existing issue, leave a comment stating your intention and wait for maintainer confirmation to prevent duplicate effort.
-- For major new features or architectural changes, please open a feature request or discussion first to align on scope and direction before writing code.
+- For major new features or architectural changes, please open a feature request first to align on scope and direction before writing code.
 
 ---
 

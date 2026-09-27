@@ -25,10 +25,13 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Lint Markdown
-        uses: DavidAnson/markdownlint-cli2-action@21c1be1b93ad9ed58fa840aacc3f279cde2a72ff # v24.2.0
+      - name: Setup Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
-          globs: '**/*.md'
+          node-version: 24
+
+      - name: Lint Markdown
+        run: npx --yes markdownlint-cli2@0.23.3 '**/*.md'
 
   link-check:
     name: Link Check
@@ -46,6 +49,8 @@ jobs:
           args: >-
             --config lychee.toml
             --verbose
+            --hidden
+            --remap '^https://github\.com/tarkovtracker-org/\.github/blob/main/ file://${{ github.workspace }}/'
             '**/*.md'
           output: lychee/out.md
           fail: true

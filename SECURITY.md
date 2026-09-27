@@ -1,4 +1,4 @@
-﻿# Security Policy
+# Security Policy
 
 The TarkovTracker-org organization takes the security of our software, infrastructure, and user data seriously. This document outlines our vulnerability disclosure process, response commitments, and project scope across all repositories under the `tarkovtracker-org` organization.
 
@@ -28,11 +28,11 @@ Submit a private advisory directly through GitHub on the affected repository:
 
 - Go to the repository's **Security** tab.
 - Click **Report a vulnerability** (or use the direct URL pattern: `https://github.com/tarkovtracker-org/<repo-name>/security/advisories/new`).
-- This opens a private advisory workflow visible only to the organization maintainers.
+- This opens a draft security advisory that only you (the reporter), repository maintainers, and any collaborators they add can view.
 
 ### 2. Direct Email
 
-If GitHub Private Vulnerability Reporting is unavailable, send an encrypted or direct email to:
+If GitHub Private Vulnerability Reporting is unavailable, send an email to:
 
 - ✉️ <mailto:security@tarkovtracker.org>
 - *Subject Line Format:* `[SECURITY REPORT] <Repository/Component> - <Brief Description>`
@@ -52,9 +52,9 @@ To help us evaluate and address your finding promptly, please provide:
 
 ---
 
-## Response Commitments & SLAs
+## Response Targets
 
-When you disclose a vulnerability responsibly, our maintainers commit to:
+TarkovTracker-org is maintained by volunteers. When you disclose a vulnerability responsibly, we aim to meet the following targets:
 
 - **Acknowledgment:** Within **72 hours** of receiving your report.
 - **Initial Triage & Assessment:** Within **7 days**, confirming reproducibility, severity, and planned remediation.
@@ -79,5 +79,5 @@ The following areas and testing methods are strictly outside our security scope:
 
 ## Recognition & Safe Harbor
 
-- **Hall of Fame:** With your permission, we are delighted to credit security researchers in release notes and security advisories. If you prefer to remain anonymous, let us know and we will respect your privacy.
+- **Credit:** With your permission, we will credit security researchers in release notes and security advisories. If you prefer to remain anonymous, let us know and we will respect your privacy.
 - **Safe Harbor:** We will not pursue legal action against individuals who discover and report vulnerabilities in good faith according to this policy, avoid data destruction or privacy violation, and provide reasonable time for remediation prior to public disclosure.

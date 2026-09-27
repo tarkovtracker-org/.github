@@ -1,4 +1,4 @@
-﻿name: Bug Report
+name: Bug Report
 description: Report unexpected behavior or a defect in a TarkovTracker-org project
 title: '[Bug]: '
 labels: ['bug']
@@ -7,6 +7,8 @@ body:
     attributes:
       value: |
         Thank you for reporting an issue! Please provide as much context as possible so we can reproduce and fix it quickly.
+
+        This issue will be created in the repository where you opened this form. If the problem affects a different project, open the form in that project's repository instead — see the [support directory](https://github.com/tarkovtracker-org/.github/blob/main/SUPPORT.md) for routing.
         *For security vulnerabilities, please do **not** use this form — follow our [Security Policy](https://github.com/tarkovtracker-org/.github/blob/main/SECURITY.md) instead.*
   - type: textarea
     id: summary
@@ -44,23 +46,6 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: repository
-    attributes:
-      label: Affected Component or Repository
-      description: Which repository or component does this issue affect?
-      options:
-        - TarkovTracker (Web Application)
-        - tarkov-data-overlay (Game Data & Quests)
-        - TrackerBot (Discord Bot)
-        - TarkovMonitor (Log Monitor)
-        - RatScanner (Desktop Overlay)
-        - RatEye (Image Recognition)
-        - RatScannerData (Data Pipeline)
-        - RequestExtract / RequestStash
-        - Other / Not Sure
-    validations:
-      required: true
-  - type: dropdown
     id: game-mode
     attributes:
       label: Game Mode (If Applicable)
@@ -76,8 +61,8 @@ body:
     id: environment
     attributes:
       label: Environment & Version
-      description: OS version, browser version, or application build number.
-      placeholder: e.g., Windows 11, Chrome 128 / macOS 14, Firefox 129 / v1.4.2
+      description: OS, browser, runtime, or application version.
+      placeholder: e.g., Windows 11, v1.4.2
     validations:
       required: false
   - type: textarea

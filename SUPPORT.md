@@ -1,4 +1,4 @@
-﻿# Support Directory
+# Support Directory
 
 Need help with a TarkovTracker-org project? Use the routing directory below to find the fastest way to get assistance. Directing inquiries to the right channel helps you receive quicker answers and keeps issue trackers focused on actionable bugs and features.
 
@@ -8,17 +8,17 @@ Need help with a TarkovTracker-org project? Use the routing directory below to f
 
 | What You Need | Where to Go |
 | --- | --- |
-| **Usage Questions & Gameplay Advice** | Join our [Discord Server](https://discord.gg/M8nBgA2sT6) in the `#general` or `#support` channels |
-| **Bug in the Web App** (quests, hideout, squad sync) | Open a [TarkovTracker Bug Report](https://github.com/tarkovtracker-org/TarkovTracker/issues/new?template=bug_report.yml) |
+| **Usage Questions & Gameplay Advice** | Ask in our [Discord Server](https://discord.gg/M8nBgA2sT6) — `#tarkov-tracker` for the web app, or the project channels (`#rat-scanner`, `#tarkov-monitor`) |
+| **Bug in the Web App** (tasks, hideout, team sync) | Open a [TarkovTracker Bug Report](https://github.com/tarkovtracker-org/TarkovTracker/issues/new?template=bug_report.yml) |
 | **Feature Ideas for the Web App** | Open a [TarkovTracker Feature Request](https://github.com/tarkovtracker-org/TarkovTracker/issues/new?template=feature_request.yml) |
-| **Game Data Inaccuracies** (quest requirements, item counts, spawns) | Report to the [tarkov-data-overlay repository](https://github.com/tarkovtracker-org/tarkov-data-overlay/issues) |
-| **Desktop Companion Issues** (RatScanner, TarkovMonitor) | Open an issue on [RatScanner Issues](https://github.com/tarkovtracker-org/RatScanner/issues) or [TarkovMonitor Issues](https://github.com/tarkovtracker-org/TarkovMonitor/issues) |
+| **Game Data Inaccuracies** (task requirements, item counts, spawns) | Report to the [tarkov-data-overlay repository](https://github.com/tarkovtracker-org/tarkov-data-overlay/issues) |
+| **RatScanner Issues** | Open an issue on [RatScanner Issues](https://github.com/tarkovtracker-org/RatScanner/issues) |
+| **TarkovMonitor Issues** | Ask in `#tarkov-monitor` on [Discord](https://discord.gg/M8nBgA2sT6) for TarkovTracker.org integration; report other defects upstream at [the-hideout/TarkovMonitor](https://github.com/the-hideout/TarkovMonitor/issues) |
 | **Discord Bot Issues** (TrackerBot) | Open an issue on [TrackerBot Issues](https://github.com/tarkovtracker-org/TrackerBot/issues) |
 | **Translations & Localization** | Join our [Crowdin Project](https://crowdin.com/project/tarkovtrackerorg) or visit [translate.tarkovtracker.org](https://translate.tarkovtracker.org) |
 | **Security Vulnerabilities** | Read our [Security Policy](SECURITY.md) — **never open a public issue** |
-| **Account or Subscription Support** | Email <mailto:support@tarkovtracker.org> |
+| **Account or Supporter Subscription Help** | Email <mailto:support@tarkovtracker.org> or open a ticket in `#ticket` on [Discord](https://discord.gg/M8nBgA2sT6) |
 | **Code of Conduct Reports** | Email <mailto:support@tarkovtracker.org> or DM a Discord moderator |
-| **General Inquiries** | Email <mailto:contact@tarkovtracker.org> |
 
 ---
 
