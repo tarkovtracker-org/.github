@@ -1,0 +1,17 @@
+# Lychee link-checker configuration for tarkovtracker-org/.github
+no_progress = true
+max_concurrency = 4
+max_retries = 3
+retry_wait_time = 2
+accept = ["200", "204", "206", "301", "302", "308"]
+
+# Exclude hosts that block automated requests or require JavaScript execution
+exclude = [
+  '^https?://localhost',
+  '^https?://127\.0\.0\.1',
+  '^https?://discord\.gg/',
+  '^https?://(www\.)?x\.com/',
+  '^https?://(www\.)?twitter\.com/',
+  '^https?://([a-z0-9-]+\.)?tarkovtracker\.org',
+  '^https?://(www\.)?escapefromtarkov\.com',
+]
