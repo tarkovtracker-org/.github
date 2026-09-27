@@ -19,6 +19,7 @@ Need help with a TarkovTracker-org project? Use the routing directory below to f
 | **Security Vulnerabilities** | Read our [Security Policy](SECURITY.md) — **never open a public issue** |
 | **Account or Supporter Subscription Help** | Email <mailto:support@tarkovtracker.org> or open a ticket in `#ticket` on [Discord](https://discord.gg/M8nBgA2sT6) |
 | **Code of Conduct Reports** | Email <mailto:support@tarkovtracker.org> or DM a Discord moderator |
+| **General Inquiries** | Email <mailto:contact@tarkovtracker.org> |
 
 ---
 

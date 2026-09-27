@@ -26,6 +26,8 @@ Repositories such as [`TarkovTracker`](https://github.com/tarkovtracker-org/Tark
 - 🌍 **Crowdin Localization:** <https://crowdin.com/project/tarkovtrackerorg>
 - 🔒 **Security Inquiries:** <mailto:security@tarkovtracker.org>
 - ✉️ **Support & Conduct Reports:** <mailto:support@tarkovtracker.org>
+- ✉️ **General Contact:** <mailto:contact@tarkovtracker.org>
+- 🐦 **Updates on X:** <https://x.com/tarkovtracker_>
 
 ## Repository Hygiene
 
