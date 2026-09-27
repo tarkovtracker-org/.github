@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/badge/website-tarkovtracker.org-2ea44f?logo=googlechrome&logoColor=white)](https://tarkovtracker.org)
 [![Discord](https://img.shields.io/badge/Discord-join%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/M8nBgA2sT6)
 [![Crowdin](https://badges.crowdin.net/tarkovtrackerorg/localized.svg)](https://crowdin.com/project/tarkovtrackerorg)
+[![X](https://img.shields.io/badge/X-@tarkovtracker__-000000?logo=x&logoColor=white)](https://x.com/tarkovtracker_)
 
 Welcome to the **TarkovTracker.org** GitHub organization. We maintain free, community-driven tools, web applications, and companion software to help [Escape from Tarkov](https://www.escapefromtarkov.com) players track their progression. Core tracking features are free for everyone, and all of our projects are developed in the open.
 
@@ -62,7 +63,8 @@ Contributions of any kind and skill level are warmly welcomed across the ecosyst
 
 - **💬 Discord:** [Join the TarkovTracker.org Community](https://discord.gg/M8nBgA2sT6) — fastest way to ask questions, chat with developers, and share feedback
 - **🌐 Website:** [tarkovtracker.org](https://tarkovtracker.org)
-- **✉️ Email:** [support@tarkovtracker.org](mailto:support@tarkovtracker.org)
+- **🐦 Updates:** [@tarkovtracker_](https://x.com/tarkovtracker_) on X
+- **✉️ Email:** [contact@tarkovtracker.org](mailto:contact@tarkovtracker.org) (general) · [support@tarkovtracker.org](mailto:support@tarkovtracker.org) (account help)
 - **🔒 Security Reports:** [security@tarkovtracker.org](mailto:security@tarkovtracker.org) (or use GitHub Private Vulnerability Reporting on the affected repository — see our [Security Policy](https://github.com/tarkovtracker-org/.github/blob/main/SECURITY.md))
 - **📜 Code of Conduct:** Read our [Contributor Covenant Code of Conduct](https://github.com/tarkovtracker-org/.github/blob/main/CODE_OF_CONDUCT.md)
 
